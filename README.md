@@ -93,7 +93,7 @@ https://www.linkedin.com/in/bikashtimsina/
 
 🌐 Portfolio:
 
-https://bikash-timsina67.github.io/Bikash-Timsina67/
+bikashtimsina.freehosting.dev
 
 ---
 
