@@ -11,11 +11,11 @@ Class 12 Student • Aspiring Software Engineer • Nepal 🇳🇵
 <p align="center">
 
 <a href="https://www.linkedin.com/in/bikashtimsina/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="bikashtimsina.freehosting.dev">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
+<a href="https://bikashtimsina.freehosting.dev">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
 </a>
 
 </p>
@@ -93,7 +93,7 @@ https://www.linkedin.com/in/bikashtimsina/
 
 🌐 Portfolio:
 
-bikashtimsia.freehosting.dev
+https://bikashtimsina.freehosting.dev
 
 ---
 
