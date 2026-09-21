@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm Bikash Timsina</h1>
 
 <h3 align="center">
-Class 12 Student • Aspiring Software Engineer • Nepal 
+Aspiring Software Engineer • Nepal
 </h3>
 
 <p align="center">
@@ -14,17 +14,11 @@ Class 12 Student • Aspiring Software Engineer • Nepal
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://bikashtimsina.freehosting.dev">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
-</a>
-
 </p>
 
 ---
 
 # 🚀 About Me
-
-🎓 Class 12 Student from Nepal
 
 💻 Passionate about Software Engineering
 
@@ -48,12 +42,12 @@ Class 12 Student • Aspiring Software Engineer • Nepal
 
 # 📚 Currently Learning
 
-- Object-Oriented Programming
-- C#
-- JavaScript
-- HTML & CSS
-- Git & GitHub
-- Data Structures (Soon)
+* Object-Oriented Programming
+* C#
+* JavaScript
+* HTML & CSS
+* Git & GitHub
+* Data Structures (Soon)
 
 ---
 
@@ -90,10 +84,6 @@ Class 12 Student • Aspiring Software Engineer • Nepal
 💼 LinkedIn:
 
 https://www.linkedin.com/in/bikashtimsina/
-
-🌐 Portfolio:
-
-https://bikashtimsina.freehosting.dev
 
 ---
 
