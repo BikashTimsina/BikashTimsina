@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm Bikash Timsina</h1>
 
 <h3 align="center">
-Class 12 Student • Aspiring Software Engineer • Nepal 🇳🇵
+Class 12 Student • Aspiring Software Engineer • Nepal 
 </h3>
 
 <p align="center">
